@@ -1,4 +1,5 @@
-# Deployed URL : chap-application.netlify.app
+# Netlify 
+http://chap-application.netlify.app
 Username1: Bimal 
 Password: 123123
 Username2: Kumar
