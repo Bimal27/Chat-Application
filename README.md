@@ -1,3 +1,9 @@
+# Deployed URL : chap-application.netlify.app
+Username1: Bimal 
+Password: 123123
+Username2: Kumar
+Password: 1231234
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
